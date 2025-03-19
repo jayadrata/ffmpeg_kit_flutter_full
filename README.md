@@ -333,3 +333,4 @@ See [License](https://github.com/arthenica/ffmpeg-kit/wiki/License) wiki page.
 ### 7. Patents
 
 See [Patents](https://github.com/arthenica/ffmpeg-kit/wiki/Patents) wiki page.
+# ffmpeg_kit_flutter_full
